@@ -1,0 +1,68 @@
+
+        body {
+            background-color: #E8FCC2;
+            font-family:Montserrat, sans-serif; 
+            padding: 3%;
+        }
+        .nome {
+            text-align: center;
+        }
+        .description {
+            font-family: fantasy;
+            font-weight: 200;
+                 
+         }
+        
+
+         
+         #skill1 {
+             font-size: 40px;
+             color: rgb(38, 34, 42);
+             text-decoration: dashed;
+             margin:40px;
+         }
+         #skill2 {
+             font-size: 30px;
+             color: aqua;
+             text-decoration: overline;
+             margin: 20px;
+         }
+         #skill3 {
+             font-size: 20px;
+             font-family: 'Courier New', Courier, monospace;
+             font-weight: 400;
+             font-style: oblique;
+             margin: 20px;
+         }
+         .button{
+             text-decoration: none;
+             background-color: rgb(220, 213, 213);
+             padding: 5px 10px;
+             border-radius: 50px;
+         }
+         .button:hover{
+             color: black;
+             background-color: aqua;
+         }
+         .img {
+             float: left;
+             padding: 3px;
+             background-color: blue;
+             
+         }
+        div {
+           
+        }
+        .info {
+            height: 500px;
+        }
+        .desc {
+            position: absolute;
+            right: 60%;
+            top: 24%;
+        }
+
+        ul li:nth-child(odd),ol li:nth-child(odd) {
+            background-color: aquamarine;
+        }
+       
